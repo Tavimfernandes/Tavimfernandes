@@ -1,6 +1,6 @@
 ### Oii! Eu sou o Octávio Fernandes 👋
 
-- 🔭 Atualmente não estou trabalhando
+- 🔭 Técnico em informática na Drogafuji
 - 🌱 Estudando línguagens front-end
 - 😄 Pronouns: ele/dele
 

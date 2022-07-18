@@ -1,6 +1,6 @@
 ### Oii! Eu sou o Octávio Fernandes 👋
 
-- 🔭 Desenvolvedor de Software na NTI Brasil
+- 🔭 Desenvolvedor Front-End na NTI Brasil
 - 🌱 Estudando línguagens front-end
 - 😄 Pronouns: ele/dele
 

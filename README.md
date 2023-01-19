@@ -1,8 +1,8 @@
 ### Oii! Eu sou o Octávio Fernandes 👋
 
-- 🔭 Desenvolvedor Front-End autônomo
-- 🌱 Estudando línguagens front-end
-- 😄 Pronouns: ele/dele
+- 🔭 Front-End Developer
+- 🌱 Studying front-end languages
+- 😄 pronouns: he/him
 
 <div>
   <a href="https://github.com/tavimfernandes">
@@ -14,8 +14,9 @@
   <img align="center" alt="Tavim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tavim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tavim-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Tavim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Tavim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tavim-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tavim-BS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Tavim-JQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-jquery.svg">
 </div>
   
   ##
